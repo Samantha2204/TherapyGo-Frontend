@@ -4,6 +4,16 @@ This project is about a client-server system for small massage shop's owner/rece
 
 **This repository includes only the frontend part, and the backend part can be found at my repositories list, called TherapyGo-Backend.**
 
+## Technologies Used
+* ReactJS
+* Redux
+* Javascript ES6
+* React Hooks
+* react-router
+* SASS
+* BEM
+* Axios
+
 ## Users and Functions
 * Boss
   * Manage Staff List
