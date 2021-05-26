@@ -1,8 +1,8 @@
 # TherapyGo
 
-This project is about a client-server system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointment through the website easily and keep track of their activities from the user platform.
+This project is about a client-server system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointments through the website easily and keep track of their activities from the user platform.
 
-**This repository includes only the frontend part, and the backend part can be found at my profile, called TherapyGo-Backend.**
+**This repository includes only the frontend part, and the backend part can be found at my repositories list, called TherapyGo-Backend.**
 
 ## Users and Functions
 * Boss
@@ -45,5 +45,4 @@ Runs this before running `npm start`.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 The page will reload if you make edits.
