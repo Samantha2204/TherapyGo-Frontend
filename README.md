@@ -25,15 +25,15 @@ This project is about a client-server system for small massage shop's owner/rece
 https://user-images.githubusercontent.com/37108397/119604060-c6a04800-be31-11eb-9044-df7d875e31ad.mov
 
 ### **Contact Us Form Is Linked To Formspree**
+https://user-images.githubusercontent.com/37108397/119606043-2c420380-be35-11eb-9b47-cdf6143a2f13.mov
 
-
-### **From The Boss' Perspective And His Functions**
+### **From The Boss' Perspective**
 https://user-images.githubusercontent.com/37108397/119604053-c1db9400-be31-11eb-98dc-10a182487dca.mov
 
-### **From The Customer's Perspective And His Functions**
+### **From The Customer's Perspective**
 https://user-images.githubusercontent.com/37108397/119604057-c4d68480-be31-11eb-97b6-750c95f8eeab.mov
 
-## Available Scripts
+## How To Run The Project
 
 In the project directory, you can run:
 
