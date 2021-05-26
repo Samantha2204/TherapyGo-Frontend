@@ -1,0 +1,13 @@
+@use "sass:color";
+@use "../sizes" as *;
+@use "../colors" as *;
+@use "../../base/timeView/mixins" as *;
+
+// adduse
+
+$timeview-bg: darken($base-bg, 5%) !default;
+$timeview-clock-bg: null !default;
+$timeview-hourarrow-bg: null !default;
+$timeview-minutearrow-bg: null !default;
+
+@include clock-action-icons-mixin($base-accent, $mode);
