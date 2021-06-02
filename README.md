@@ -63,4 +63,4 @@ The page will reload if you make edits.
 **Please note that this project will not be connected to the database unless you run the backend repo at the same time.**
 
 ## Videos' Music
-Music: https://www.bensound.com
+Music: Photo Album from https://www.bensound.com
